@@ -9,10 +9,11 @@ Hi there! 👋 I'm an AI/ML Engineer with a deep-seated passion for **Computer S
 
 🎯 **Research Interests**:
 - 🧠 Artificial Intelligence
-- 💵 Machine Learning/ Optimization
+- 🏥 AI in Healthcare
+- <1 Machine Learning/ Optimization
 - 📊 Data Science
 - 🌱 Sustainable Tech with AI
-- 🏥 AI in Healthcare
+
 
 🌟 Let’s connect and explore the endless possibilities in tech! 
 
