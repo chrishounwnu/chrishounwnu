@@ -8,8 +8,8 @@ Hi there! 👋 I'm an AI/ML Engineer with a deep-seated passion for **Computer S
 ✨ I’m especially fascinated by **Data Analysis**, **Artificial Intelligence**, and the power of **Deep Learning** to tackle complex problems that traditional programming can’t solve. Building neural networks that mimic aspects of human intelligence is something I’m deeply committed to.
 
 🎯 **Research Interests**:
-- 🧠 AI for Education
-- 💵 AI for Finance
+- 🧠 Artificial Intelligence
+- 💵 Machine Learning/ Optimization
 - 📊 Data Science
 - 🌱 Sustainable Tech with AI
 - 🏥 AI in Healthcare
