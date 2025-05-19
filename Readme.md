@@ -5,7 +5,7 @@
 
 Hi there! 👋 I'm an AI/ML Engineer with a strong academic background in Mathematics, Computer Science, and Artificial Intelligence. Over the years, I’ve enjoyed developing intelligent systems — from data analysis and machine learning pipelines to neural network models tackling complex, real-world problems.
 
-🎯 I’m currently pursuing an MSc in Data Science and Machine Learning at AIMS Rwanda (graduating in June 2025), and actively looking for PhD opportunities in Machine Learning, AI, LLMs, or intelligent systems in general. I’m passionate about advancing research at the intersection of theory and application — particularly using AI to automate and improve software engineering and decision-making processes.
+🎯 I’m passionate about advancing research at the intersection of theory and application — particularly using AI to automate and improve software engineering and decision-making processes.
 
 --- 
 
