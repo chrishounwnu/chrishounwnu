@@ -3,7 +3,7 @@
 
 #### 👨‍💻 Aspiring PhD Researcher
 
-Hi there! 👋 I'm an NLP/ML Engineer with a strong academic background in Mathematics, Computer Science, and Artificial Intelligence. Over the years, I’ve enjoyed developing intelligent systems — from data analysis and machine learning pipelines to neural network models tackling complex, real-world problems.
+I'm an NLP/ML Engineer with a strong academic background in Mathematics, Computer Science, and Artificial Intelligence. Over the years, I’ve enjoyed developing intelligent systems — from data analysis and machine learning pipelines to neural network models tackling complex, real-world problems.
 
 🎯 I’m passionate about advancing research at the intersection of theory and application — particularly using AI to automate and improve software engineering and decision-making processes.
 
