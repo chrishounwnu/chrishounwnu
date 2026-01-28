@@ -12,7 +12,7 @@ I'm an AI/ML Engineer with a strong academic background in Mathematics, Computer
 🎯 **Research Interests**
 
 * 🤖 Artificial Intelligence
-* 🏥 NLP
+* 🏥 Reinforcement Learning
 * 📈 Machine Learning
 * 📊 Data Science
 
